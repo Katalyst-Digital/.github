@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Katalyst Digital Banner](../../../profile/Katalyst_GitHub_banner_1280x320.png)
+![Katalyst Digital Banner](https://github.com/Katalyst-Digital/.github/blob/main/Katalyst_GitHub_banner_1280x320.png)
 
 ### Powering the creators of tomorrow
 
